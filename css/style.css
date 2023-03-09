@@ -1,1 +1,8 @@
-
+#main-navbar{
+    background-color: blue;
+    overflow: hidden;
+}
+#navbar-container{
+    float:left;
+    width: 100%;
+}
