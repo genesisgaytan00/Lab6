@@ -14,8 +14,9 @@
     position: relative;
     left: 50%;
     float: left;
-
+}
+#main-navbar ul li{
+    float: left;
     
-
 }
 
